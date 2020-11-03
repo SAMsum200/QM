@@ -39,7 +39,7 @@ img{
     border-radius: 100px;
     border: solid 2px rgb(0,0,0,10);
 }
-@media (max-width: 375px) {
+@media (max-width: 720px) {
 .col{
     width: 90%;
     
