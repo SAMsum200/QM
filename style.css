@@ -42,9 +42,7 @@ img{
 @media (max-width: 720px) {
 .col{
     width: 90%;
-    
+    float: none;
 }
-body{
-background-color: chartreuse;
-}
+
 }
