@@ -39,7 +39,7 @@ img{
     border-radius: 100px;
     border: solid 2px rgb(0,0,0,10);
 }
-@media only screen and (max-width: 420px) {
+@media only screen and (max-width: 730px) {
 .col{
     width: 90%;
     float: none;
